@@ -1,4 +1,4 @@
-![dl](https://user-images.githubusercontent.com/57017057/236966508-00596bc2-cd5b-4469-8eaa-0881f19a4e47.png)
+            ![dl](https://user-images.githubusercontent.com/57017057/236966508-00596bc2-cd5b-4469-8eaa-0881f19a4e47.png)
 
 
                                                        Deep_Learning_Project
