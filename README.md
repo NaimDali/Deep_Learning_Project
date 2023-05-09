@@ -3,9 +3,9 @@
                                                Deep_Learning_Project
 
 🔭 About The Project
-We will work on different models:
-● Naive Bayes
-● K-Nearest Neighbors (KNN)
+We will work on different models: <br/>
+● Naive Bayes <br>
+● K-Nearest Neighbors (KNN) </br>
 ● Linear Discriminant Analysis (LDA)
 ● Decision Tree
 ● Artificial Neural Network (ANN)
